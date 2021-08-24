@@ -1,8 +1,8 @@
-# -1.1
+โปรแกรมรายสัปดาห์ที่ 1 อันที่ 1
 
 #include<stdio.h>
 
-int main () {
+        int main () {
 	double W ;
 	double H ;
 	
@@ -36,6 +36,6 @@ int main () {
 		printf("EROR");
 	}
 
-return 0;
-}
+         return 0;
+        }
 
